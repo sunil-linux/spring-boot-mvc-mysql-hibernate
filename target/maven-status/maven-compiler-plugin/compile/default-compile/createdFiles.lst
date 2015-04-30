@@ -1,0 +1,9 @@
+com\agilent\earray8\springboot\service\UserServiceImpl.class
+com\agilent\earray8\springboot\service\UserService.class
+com\agilent\Application.class
+com\agilent\earray8\springboot\dao\UserDaoImpl.class
+com\agilent\earray8\springboot\dao\UserDao.class
+com\agilent\earray8\springboot\controllers\UserController.class
+com\agilent\earray8\springboot\config\WebMvcConfig.class
+com\agilent\earray8\springboot\config\DatabaseConfig.class
+com\agilent\earray8\springboot\beans\User.class
